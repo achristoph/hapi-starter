@@ -1,0 +1,29 @@
+{
+  "name": "hapi-starter",
+  "version": "1.0.0",
+  "description": "hapi starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achristoph/hapi-starter.git"
+  },
+  "author": "Arthur Christoph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achristoph/hapi-starter/issues"
+  },
+  "homepage": "https://github.com/achristoph/hapi-starter#readme",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.5.0"
+  }
+}
